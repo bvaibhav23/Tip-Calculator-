@@ -14,3 +14,7 @@ Calculate the tip on the basis of the selected option. The tip can be 5%, 10%, 1
 Round Tip amount up to two decimal places. Example: 2.48, 23.50, 3:00 (Hint: Math.round () or toFixed (2) )
 
 The calculated tip is shared among all the people mentioned in the number of people to calculate the final share.
+# Languages Used
+* HTML
+* CSS
+* JavaScript
